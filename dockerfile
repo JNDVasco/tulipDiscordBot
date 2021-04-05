@@ -1,4 +1,4 @@
-FROM node:v14.16.0  
+FROM node:14.16.0-stretch-slim
 
 RUN mkdir -p /usr/src/bot
 WORKDIR /usr/src/bot
