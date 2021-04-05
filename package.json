@@ -1,0 +1,12 @@
+{
+  "name": "tulip-bot",
+  "version": "1.0.0",
+  "description": "Send tulips to a channel",
+  "main": "main.js",
+  "author": "JNDVasco",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1",
+    "unsplash-js": "^6.0.0"
+  }
+}
